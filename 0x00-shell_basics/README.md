@@ -3,3 +3,4 @@
 2. Script to change working directory to home directory
 3. Script to display current directory in a long format
 4. Script to display current files including hidden files
+5. Script to display current directory content
