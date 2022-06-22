@@ -7,3 +7,4 @@
 6. Script to create a directory in another directory
 7. Script to delete a file in a directory
 8. Script to delete a directory
+9. Script to change working directory to the previous one
