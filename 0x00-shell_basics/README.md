@@ -5,4 +5,5 @@
 4. Script to display current files including hidden files
 5. Script to display current directory content
 6. Script to create a directory in another directory
-7. Script to delete a directory
+7. Script to delete a file in a directory
+8. Script to delete a directory
